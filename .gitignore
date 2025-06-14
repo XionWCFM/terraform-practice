@@ -21,7 +21,7 @@ override.tf.json
 # CLI 환경 설정 캐시
 .terraform.rc
 terraform.rc
-
+.terraform.tfstate.lock.info
 # ───────────── Terraform 관련 ─────────────
 *.tfstate
 *.tfstate.backup
