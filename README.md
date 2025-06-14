@@ -1,3 +1,13 @@
+# scripts
+
+```
+terrafrom state list
+```
+
+output : `aws_instance.app_server`
+
+terraformstate에서 관리되고 있는 리소스가 aws_instance.app_server라는 뜻
+
 # aws
 
 ```tf
